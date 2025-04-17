@@ -1,4 +1,4 @@
-"""<img src="banner_github.png" alt="GitHub Banner" width="100%" />"""
+
 
 # 💫 Hello World!, I'm Anjali A B
 I'm currently pursuing Integrated M.Sc. in Computer Science with Specialization in Artificial Intelligence and Machine Learning.
