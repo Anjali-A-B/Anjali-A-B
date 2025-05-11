@@ -1,9 +1,7 @@
 
 
 # 💫 Hello World!, I'm Anjali A B
-Highly Motivated Computer Science student who has completed an Integrated M.Sc. in Computer Science with Specializa-
-tion in Artificial Intelligence and Machine Learning. Strong foundation in programming, data structures, and algorithms.
-Passionate about leveraging AI/ML techniques to solve complex problems and drive innovation.
+Highly Motivated Computer Science student who has completed an Integrated M.Sc. in Computer Science with Specialization in Artificial Intelligence and Machine Learning. Strong foundation in programming, data structures, and algorithms. Passionate about leveraging AI/ML techniques to solve complex problems and drive innovation.
 
 
 # 💻 Tech Stack:
